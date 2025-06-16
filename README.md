@@ -1,24 +1,25 @@
-👋 Hi, I'm Dinesh K
+
+**👋 Hi, I'm Dinesh K**
 
 I'm a self-taught developer passionate about building at the intersection of AI, quantum computing, and biotechnology. I focus on open-source tools that turn cutting-edge science into real-world solutions.
 
-🧬 Open-Source Highlights
-Q-Trace Pro — Quantum Python Security Analyzer: detects quantum-native threats, bridging the gap between cybersecurity and the quantum era.
 
-CRISPR gRNA Designer — Simple, accessible guide RNA design for diverse species.
+### 🧬 **Open-Source Highlights**
 
-🚀 Interests & Skills
-Applied Artificial Intelligence
+* [**Q-Trace Pro**](https://github.com/Dinesh431786/Q-Trace) — Quantum Python Security Analyzer: detects quantum-native threats, bridging the gap between cybersecurity and the quantum era.
+* [**CRISPR gRNA Designer**](https://github.com/Dinesh431786/Crispr) — Simple, accessible guide RNA design for diverse species.
 
-Quantum Computing (Qiskit, Cirq)
 
-Bioinformatics & Computational Biology
+### 🚀 **Interests & Skills**
 
-Open Science & Research Tools
+* Applied Artificial Intelligence
+* Quantum Computing (Qiskit, Cirq)
+* Bioinformatics & Computational Biology
+* Open Science & Research Tools
+* Security & Novel Threat Detection
 
-Security & Novel Threat Detection
+🌐 **Let’s connect!**
+[GitHub](https://github.com/Dinesh431786) | [LinkedIn](https://www.linkedin.com/in/dinesh-k-3199ab1b0/)
 
-🌐 Let’s connect!
-GitHub | LinkedIn
+*Open to collaboration, research, or building the future together.*
 
-Open to collaboration, research, or building the future together.
